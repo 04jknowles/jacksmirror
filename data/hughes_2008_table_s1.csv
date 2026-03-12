@@ -1,0 +1,267 @@
+family,genus,species,prop_females_poly,effective_mating_freq,polyandry_level,refs,worker_totipotency,totipotency_refs
+Specidae,Microstigmus,comes,0,1,0,"(S33, 34)",yes,(S35)
+Halictidae,Augochlorella,striata,0,1,0,(S36),yes,(S37)
+Halictidae,Augochlorella,pura,0,1,0,(S38),yes,
+Halictidae,Halictus,ligatus,?,2.9,0,(S39),yes,(S39)
+Halictidae,Halictus,marginatus,?,>1,1,(S40),yes,
+Halictidae,Lasioglossum,laevissumum,0,1,0,(S41),yes,(S41)
+Halictidae,Lasioglossum,malachurum,0.03,1.0,0,(S42),yes,(S42)
+Halictidae,Lasioglossum,marginatum,?,?,0,(S43),yes,
+Halictidae,Lasioglossum,rowheri,0.27,0.55,1,(S38),yes,
+Halictidae,Lasioglossum,zephyrum,0,1,0,"(S38, 44)",yes,
+Apidae,Bombus,affinis,0,1,0,(S45),no,
+Apidae,Bombus,auricomus,0,1,0,(S45),no,
+Apidae,Bombus,bifarius,0.31,?,1,"(S46, 47)",no,
+Apidae,Bombus,bimaculatus,0.25,1.06,1,(S45),no,
+Apidae,Bombus,californicus,0.29,?,1,(S47),no,
+Apidae,Bombus,citrinus,1,2.5,1,(S45),no,
+Apidae,Bombus,fervidus,0,1,0,(S45),no,
+Apidae,Bombus,frigidus,0.13,?,1,(S47),no,
+Apidae,Bombus,griseocollis,0,1,0,(S45),no,
+Apidae,Bombus,hortorum,0,1,0,(S48),no,
+Apidae,Bombus,humilis,0,1,0,"(S43, 49)",no,
+Apidae,Bombus,huntii,?,?,1,(S46),no,
+Apidae,Bombus,hypnorum,0.24,1.12,1,(S48),no,
+Apidae,Bombus,impatiens,0.24,1.13,1,"(S45, 50)",no,
+Apidae,Bombus,insularis,0,1,0,(S45),no,
+Apidae,Bombus,lapidarius,0,1,0,(S48),no,
+Apidae,Bombus,lucorum,0,1,0,(S48),no,
+Apidae,Bombus,mixtus,1,4,1,(S45),no,
+Apidae,Bombus,pascuorum,0,1,0,(S48),no,
+Apidae,Bombus,pratorum,0,1,0,(S48),no,
+Apidae,Bombus,rufocinctus,0.06,?,0,(S47),no,
+Apidae,Bombus,sicheli,0,1,0,(S48),no,
+Apidae,Bombus,sylvarum,0,1,0,"(S43, 49)",no,
+Apidae,Bombus,ternarius,1,2,1,(S45),no,
+Apidae,Bombus,terrestris,0,1,0,(S48),no,
+Apidae,Bombus,vagans,0,1,0,(S45),no,
+Apidae,Bombus,variabilis,0,1,0,"(S40, 43)",no,
+Apidae,Apis,andreniformis,1,10.5,2,"(S51, 52)",no,
+Apidae,Apis,cerana,1,14.1,2,"(S51, 53)",no,
+Apidae,Apis,dorsata,1,44.2,2,"(S51, 54)",no,
+Apidae,Apis,florea,1,7.9,2,"(S51, 55)",no,
+Apidae,Apis,koschevnikovi,1,13.3,2,"(S51, 56)",no,
+Apidae,Apis,laboriosa,1,16.8,2,(S57),no,
+Apidae,Apis,mellifera,1,11.6,2,(S51),no,
+Apidae,Apis,nigrocincta,1,40.3,2,"(S51, 58)",no,
+Apidae,Trigona,clavipes,0,1.01,0,"(S59, 60)",no,
+Apidae,Tetragonula,carbonaria,0,1,0,(S61),no,
+Apidae,Tetragonula,clypearis,0,1.04,0,(S62),no,
+Apidae,Tetragonula,collina,0,1,0,(S63),no,
+Apidae,Trigona,fulviventris,0,1.15,0,(S59),no,
+Apidae,Tetragonula,hockingsi,0,1.16,0,(S62),no,
+Apidae,Tetragonula,mellipes,0,0.98,0,(S62),no,
+Apidae,Heterotrigona,sapiens,0,1,0,(S62),no,
+Apidae,Plebeia,droryama,0,1,0,"(S4, 60)",no,
+Apidae,Plebeia,nr minima,0,1.42,0,(S59),no,
+Apidae,Plebeia,remota,0,1,0,"(S4, 60)",no,
+Apidae,Plebeia,saiqui,0,1,0,"(S4, 60)",no,
+Apidae,Plebeia,quadripunctata,0,1,0,(S59),no,
+Apidae,Lestrimellita,limao,0,1.23,0,(S59),no,
+Apidae,Melipona,beecheii,0,1.16,0,(S64),no,
+Apidae,Melipona,compressipes,0,1,0,(S4),no,
+Apidae,Melipona,favosa,0,1,0,(S4),no,
+Apidae,Melipona,marginata,0,1,0,"(S4, 60)",no,
+Apidae,Melipona,scutellaris,0,1,0,"(S4, 60)",no,
+Apidae,Melipona,subnitida,0,1,0,"(S4, 65)",no,
+Apidae,Melipona,panamica,0,1,0,(S59),no,
+Apidae,Melipona,quadrifasciata,0,1,0,"(S59, 60)",no,
+Apidae,Melipona,quinqueifasciata,0,1,0,(S43),no,
+Apidae,Melipona,bicolor,0,,0,(S59),no,
+Apidae,Austroplebeia,australis,0,1,0,(S66),no,
+Apidae,Austroplebeia,symei,0,1.06,0,(S62),no,
+Apidae,Partamona,nr cupira,0,1,0,(S59),no,
+Apidae,Nannotrigona,perilampoides,0,1.19,0,(S59),no,
+Apidae,Paratrigona,subnuda,0,1.02,0,"(S59, 67)",no,
+Apidae,Scaptotrigona,barrocoloradensis,0,1,0,(S59),no,
+Apidae,Scaptotrigona,depilis,0,1,0,(S4),no,
+Apidae,Scaptotrigona,mexicana,0,1.06,0,(S62),no,
+Apidae,Scaptotrigona,pectoralis,0,1.09,0,(S62),no,
+Apidae,Scaptotrigona,postica,0,1,0,(S59),no,
+Vespidae,Parischnogaster,alternata,0.02,1.02,0,(S68),yes,(S68)
+Vespidae,Parischnogaster,mellyi,0,1,0,(S69),yes,(S69)
+Vespidae,Liostenogaster,flavolineata,0,1,0,(S70),yes,(S70)
+Vespidae,Eustenogaster,fraterna,0,1,0,(S71),yes,(S71)
+Vespidae,Polistes,annularis,0.05,1.05,0,(S72),yes,(S73)
+Vespidae,Polistes,bellicosus,0,1,0,(S74),yes,(S73)
+Vespidae,Polistes,biglumis,0,1,0,"(S4, 75)",yes,(S73)
+Vespidae,Polistes,chinensis,0,1,0,"(S4, 76)",yes,(S73)
+Vespidae,Polistes,dorsalis,0,1,0,(S75),yes,(S73)
+Vespidae,Polistes,fuscatus,?,>1,1,(S77),yes,(S73)
+Vespidae,Polistes,gallicus,0,1,0,(S78),yes,(S73)
+Vespidae,Polistes,jadwigae,0,1,0,(S79),yes,(S73)
+Vespidae,Polistes,metricus,0.18,?,1,(S80),yes,(S73)
+Vespidae,Polistes,snelleni,0,1,0,(S81),yes,(S73)
+Vespidae,Polistes,versicolor,0,1,0,(S40),yes,(S73)
+Vespidae,Parachartegus,colobopterus,0,1,0,(S82),yes,(S83)
+Vespidae,Polybioides,tabidus,0,1,0,(S84),no,(S84)
+Vespidae,Ropalidia,marginata,?,?,0,(S43),yes,(S85)
+Vespidae,Ropalidia,revolutionalis,0.01,1,0,(S86),yes,(S87)
+Vespidae,Parapolybia,indica,0.14,,1,(S88),yes,(S85)
+Vespidae,Brachygastra,mellifica,0,1,0,(S89),no,(S89)
+Vespidae,Vespa,analis,0,1,0,(S90),no,(S90)
+Vespidae,Vespa,crabro,0.20,1.12,1,"(S91, 92)",no,(S93)
+Vespidae,Vespa,ducalis,0,1,0,(S94),no,(S93)
+Vespidae,Vespa,mandarinia,0.1,1.03,1,(S92),no,(S93)
+Vespidae,Vespa,simillima,0.4,1.33,1,(S90),no,(S90)
+Vespidae,Provespa,anomola,0,1,0,(S95),no,(S93)
+Vespidae,Dolichovespula,arenaria,0.29,1.2,1,"(S95, 96)",no,"(S95, 97)"
+Vespidae,Dolichovespula,maculata,0,1,0,(S98),no,"(S95, 97)"
+Vespidae,Dolichovespula,media,0.18,1.08,1,(S98),no,"(S95, 97)"
+Vespidae,Dolichovespula,norwegica,0.27,1.08,1,(S98),no,"(S95, 97)"
+Vespidae,Dolichovespula,saxonica,0.6,1.35,1,(S98),no,"(S95, 97)"
+Vespidae,Dolichovespula,sylvestris,0.36,1.15,1,(S95),no,"(S95, 97)"
+Vespidae,Vespula,atropilosa,?,?,1,"(S40, 99)",no,"(S95, 97)"
+Vespidae,Vespula,germanica,0.86,2.35,2,(S100),no,"(S95, 97)"
+Vespidae,Vespula,maculifrons,0.9,5.43,2,"(S101, 102)",no,"(S95, 97)"
+Vespidae,Vespula,rufa,0.67,1.5,1,(S103),no,"(S95, 97)"
+Vespidae,Vespula,squamosa,1,2.13,2,(S102),no,"(S95, 97)"
+Vespidae,Vespula,vulgaris,0.94,1.9,2,(S104),no,"(S95, 97)"
+Formicidae,Pachycondyla,inversa,0.95,2.38,1,(S105),no,(S105)
+Formicidae,Pachycondyla,tarsatus,?,?,1,(S106),no,(S106)
+Formicidae,Pachycondyla,villosa,0.8,1.67,1,(S105),no,(S105)
+Formicidae,Diacamma,sp.,0,1,0,(S107),yes,(S107)
+Formicidae,Diacamma,cyaneiventre,0,1,0,(S108),yes,(S108)
+Formicidae,Streblognathus,aethiopicus,0,1,0,(S109),yes,(S109)
+Formicidae,Dinoponera,quadriceps,0,1,0,(S110),yes,(S110)
+Formicidae,Dorylus,molestus,1,15.9,2,(S111),no,
+Formicidae,Aenictus,laeviceps,1,18.8,2,(S112),no,
+Formicidae,Neivamyrmex,carolinensis,0.75,1.4,1,(S113),no,
+Formicidae,Neivamyrmex,nigrescens,1,12.8,2,(S112),no,
+Formicidae,Eciton,burchelli,1,12.9,2,"(S114, 115)",no,
+Formicidae,Nothomyrmecia,macrops,0.35,1.33,1,(S116),no,(S116)
+Formicidae,Pseudomyrmex,ferruginea,0,1,0,(S117),no,
+Formicidae,Tapinoma,minutum,0,1,0,(S118),no,
+Formicidae,Dorymyrmex,insanus,0,1.09,0,"(S1, 74)",no,
+Formicidae,Iridomyrmex,purpureus,0,1,0,(S119),no,
+Formicidae,Linepithema,humile,0,1,0,(S120),no,
+Formicidae,Gnamptogenys,striatula,0.24,?,1,(S121),yes,(S30)
+Formicidae,Rhytidoponera,chalybaea,0,1,0,(S122),yes,(S123)
+Formicidae,Rhytidoponera,confusa,0,1,0,(S122),yes,(S123)
+Formicidae,Rhytidoponera,sp.12,0.03,1.01,0,(S124),yes,(S123)
+Formicidae,Rhytidoponera,impressa,0,1,0,(S122),yes,(S122)
+Formicidae,Plagiolepis,pygmaea,0.83,2.37,2,(S125),no,
+Formicidae,Petalomyrmex,ferruginea,0,1,0,(S126),no,
+Formicidae,Brachymyrmex,depilis,?,?,1,(S127),no,
+Formicidae,Lasius,alienus,0.46,?,1,(S128),no,
+Formicidae,Lasius,flavus,0,1.2,0,(S129),no,
+Formicidae,Lasius,neglectus,0,1.36,0,(S130),no,
+Formicidae,Lasius,niger,0.12,1.16,1,(S131),no,
+Formicidae,Myrmecocystus,depilis,0,1,0,(S132),no,
+Formicidae,Myrmecocystus,mimicus,0.15,1.15,1,(S132),no,
+Formicidae,Paratrechina,flavipes,0,1,0,(S133),no,
+Formicidae,Prenolepis,imparis,?,?,1,(S134),no,
+Formicidae,Proformica,longiseta,0.7,1.23,1,(S135),no,
+Formicidae,Rossomyrmex,minuchae,0,1,0,(S136),no,
+Formicidae,Cataglyphis,cursor,1,14.2,2,"(S137, 138)",no*,(S137)
+Formicidae,Polyergus,lucidus,?,?,1,(S139),no,
+Formicidae,Polyergus,rufescens,0,1,0,(S140),no,
+Formicidae,Formica,aquilonica,0.57,1.48,1,"(S1, 141)",no,
+Formicidae,Formica,argentea,0,1,0,"(S43, 142)",no,
+Formicidae,Formica,bradleyi,?,?,1,"(S40, 143)",no,
+Formicidae,Formica,candida,0.03,1.03,1,"(S1, 141)",no,
+Formicidae,Formica,dakotensis,?,?,1,(S144),no,
+Formicidae,Formica,exsecta,0.25,1.26,1,"(S4, 145)",no,
+Formicidae,Formica,fusca,0.24,1.11,1,"(S141, 146)",no,
+Formicidae,Formica,japonica,0,1,0,(S147),no,
+Formicidae,Formica,montana,?,?,1,"(S40, 148)",no,
+Formicidae,Formica,obscuripes,0,0,0,"(S40, 149)",no,
+Formicidae,Formica,opaciventris,?,?,1,(S40),no,
+Formicidae,Formica,paralugubris,0.22,1.1,1,(S150),no,
+Formicidae,Formica,pratensis,?,1.22,1,(S151),no,
+Formicidae,Formica,pergandei,?,?,1,(S152),no,
+Formicidae,Formica,podzolica,0.07,,0,(S153),no,
+Formicidae,Formica,pressilabris,0.15,1.12,1,"(S1, 141)",no,
+Formicidae,Formica,rufa,0.39,1.47,1,(S154),no,
+Formicidae,Formica,sanquinea,0.08,1.31,0,(S1),no,
+Formicidae,Formica,selysi,0.1,1.04,0,(S155),no,
+Formicidae,Formica,subintegra,?,?,1,"(S40, 148)",no,
+Formicidae,Formica,subpolita,?,>1,1,(S156),no,
+Formicidae,Formica,truncorum,0.4,1.43,1,(S154),no,
+Formicidae,Formica,yessensis,?,?,1,(S157),no,
+Formicidae,Oecophylla,smaragdina,0-?,1-?,0,"(S157, 158)",no,
+Formicidae,Camponotus,consobrinus,0,1,0,(S159),no,
+Formicidae,Camponotus,festinatus,0.03,1.02,0,(S160),no,
+Formicidae,Camponotus,floridanus,0,1,0,(S161),no,
+Formicidae,Camponotus,ligniperda,0,1,0,(S162),no,
+Formicidae,Camponotus,nawai,0,1,0,(S163),no,
+Formicidae,Camponotus,nipponicus,0,1.03,0,"(S1, 164)",no,
+Formicidae,Camponotus,ocreatus,0,1.25,0,(S165),no,
+Formicidae,Pogonomyrmex,badius,1,9.16,2,(S166),no,
+Formicidae,Pogonomyrmex,barbatus,1,3.13,2,"(S167, 168)",no,
+Formicidae,Pogonomyrmex,californicus,0.94,?,2,(S169),no,
+Formicidae,Pogonomyrmex,desertorum,?,?,2,(S168),no,
+Formicidae,Pogonomyrmex,inermis,1,15.7,2,(S170),no,
+Formicidae,Pogonomyrmex,maricopa,?,?,2,(S168),no,
+Formicidae,Pogonomyrmex,pronotalis,1,9.78,2,(S170),no,
+Formicidae,Pogonomyrmex,occidentalis,1,5.98,2,(S171),no,
+Formicidae,Pogonomyrmex,pima,0.25,1.18,1,(S172),no,
+Formicidae,Pogonomyrmex,rugosus,1,4.71,2,(S173),no,
+Formicidae,Myrmica,americana,0,1,0,(S174),no,
+Formicidae,Myrmica,lobicornis,0,1,0,(S175),no,
+Formicidae,Myrmica,punctiventris,0,1,0,(S176),no,
+Formicidae,Myrmica,rubra,0.53,1.22,1,(S177),no,
+Formicidae,Myrmica,ruginodis,0.16,1.08,1,"(S154, 175)",no,
+Formicidae,Myrmica,sulcinodis,0.35,1.06,1,(S178),no,
+Formicidae,Myrmica,tahoensis,0,1,0,(S179),no,
+Formicidae,Solenopsis,geminata,0,1.02,0,(S180),no,
+Formicidae,Solenopsis,invicta,0,1,0,(S181),no,
+Formicidae,Solenopsis,lou,0,>1,1,(S180),no,
+Formicidae,Solenopsis,richteri,0,1.02,0,(S180),no,
+Formicidae,Carebara,vidua,?,?,1,(S182),no,
+Formicidae,Monomorium,pharaonsis,0,1,0,(S183),no,
+Formicidae,Monomorium,minimum,0,1,0,(S184),no,
+Formicidae,Monomorium,salomonis,?,?,0,(S40),no,
+Formicidae,Aphaenogaster,carolinensis,0,1,0,(S4),no,
+Formicidae,Aphaenogaster,rudis,0,1.02,0,"(S1, 185)",no,
+Formicidae,Aphaenogaster,smythiesi,0,1,0,(S186),no,
+Formicidae,Messor,ebeninus,?,?,1,(S187),no,
+Formicidae,Pheidole,embolopyx,0,1,0,(S157),no,
+Formicidae,Pheidole,pallidula,0,1,0,(S188),no,
+Formicidae,Pheidole,soritis,0,1,0,(S157),no,
+Formicidae,Myrmicocrypta,ednaella,0,1.06,0,(S189),no,
+Formicidae,Mycetophylax,conformis,0,1,0,(S190),no,
+Formicidae,Mycetophylax,simplex,0,1,0,(S190),no,
+Formicidae,Apterostigma,collare,0,1.04,0,(S189),no,
+Formicidae,Apterostigma,mayri,0,1,0,(S191),no,
+Formicidae,Cyphomyrmex,costatus,0,1,0,(S191),no,
+Formicidae,Cyphomyrmex,longiscapus,0,1.05,0,(S189),no,
+Formicidae,Cyphomyrmex,morschi,0,1,0,(S190),no,
+Formicidae,Cyphomyrmex,rimosus,0,1,0,(S191),no,
+Formicidae,Sericomyrmex,amabilis,0,1.13,0,(S192),no,
+Formicidae,Sericomyrmex,cf. amabilis,0,1.24,0,(S192),no,
+Formicidae,Trachymyrmex,cf. zeteki,0,1.17,0,(S192),no,
+Formicidae,Trachymyrmex,cornetzi sp. 1,0,1.21,0,(S192),no,
+Formicidae,Trachymyrmex,cornetzi sp. 2,0,1.14,0,(S192),no,
+Formicidae,Trachymyrmex,isthmicus,0,1,0,(S191),no,
+Formicidae,Acromymex,echinatior,1,5.3,2,(S193),no,
+Formicidae,Acromymex,landolti,?,?,2,(S40),no,
+Formicidae,Acromymex,octospinosus,1,3.93,2,"(S194, 195)",no,
+Formicidae,Acromymex,versicolor,1,,2,(S196),no,
+Formicidae,Acromyrmex,insinuator,0.15,1.09,1,(S193),no,
+Formicidae,Atta,colombica,0.92,2.31,2,(S197),no,
+Formicidae,Atta,laevigata,?,?,2,(S198),no,
+Formicidae,Atta,sexdens,1,2.6,2,(S199),no,
+Formicidae,Myrmecina,nipponica,0,1.02,0,(S200),no,
+Formicidae,Cardiocondyla,batesii,0.42,2.63,1,(S201),no,
+Formicidae,Cardiocondyla,elegans,1,4.37,2,(S202),no,
+Formicidae,Cardiocondyla,obscurior,?,?,1,(S203),no,
+Formicidae,Cardiocondyla,sp.,0,1,0,(S204),no,
+Formicidae,Anergates,atratulus,?,>1,1,(S43),n/a,
+Formicidae,Temnothorax,crassispinus,0,1.05,0,(S205),no,
+Formicidae,Protomognathus,americanus,0,1.16,0,(S206),no,
+Formicidae,Myrmoxenus,goesswaldi,0,1,0,(S207),no,
+Formicidae,Leptothorax,acervorum,0.05,1.06,0,"(S208, 209)",no,
+Formicidae,Leptothorax,gredleri,0.32,1.11,1,(S210),no,
+Formicidae,Leptothorax,longispinosus,0,1,0,(S211),no,
+Formicidae,Leptothorax,muscorum,0,1,0,(S43),no,
+Formicidae,Leptothorax,nylanderi,0,1,0,(S212),no,
+Formicidae,Leptothorax,pergandei,0.08,1.04,0,(S213),no,
+Formicidae,Leptothorax,risii,0,1,0,(S157),no,
+Formicidae,Leptothorax,unifasciatus,0,1,0,(S207),no,
+Formicidae,Harpagoxenus,canadensis,0,1,0,(S43),no,
+Formicidae,Harpagoxenus,sublaevis,0,1.02,0,(S214),no,
+Formicidae,Crematogaster,sp.,0,1,0,(S182),no,
+Formicidae,Crematogaster,sp.2,0,1,0,(S215),no,
+Formicidae,Crematogaster,smithi,0.07,1.02,0,(S216),no,
+Formicidae,Meranoplus,peringueyi,0.07,1.07,0,(S182),no,

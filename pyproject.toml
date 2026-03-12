@@ -1,0 +1,53 @@
+[build-system]
+requires = ["setuptools>=68.0", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "jacksmirror"
+version = "0.2.0"
+description = "Statistical analysis of the monogamy hypothesis and the evolution of eusociality in bees"
+readme = "README.md"
+license = {text = "MIT"}
+requires-python = ">=3.11"
+authors = [
+    {name = "RollCall"},
+]
+keywords = ["eusociality", "monogamy", "bees", "evolutionary biology", "statistics"]
+classifiers = [
+    "Development Status :: 4 - Beta",
+    "Intended Audience :: Science/Research",
+    "License :: OSI Approved :: MIT License",
+    "Programming Language :: Python :: 3",
+    "Programming Language :: Python :: 3.11",
+    "Programming Language :: Python :: 3.12",
+    "Programming Language :: Python :: 3.13",
+    "Topic :: Scientific/Engineering :: Bio-Informatics",
+]
+
+dependencies = [
+    "pandas>=2.2.0",
+    "numpy>=1.26.0",
+    "scipy>=1.12.0",
+    "statsmodels>=0.14.0",
+    "matplotlib>=3.8.0",
+    "seaborn>=0.13.0",
+]
+
+[project.optional-dependencies]
+dev = [
+    "pytest>=8.0.0",
+]
+notebook = [
+    "jupyter>=1.0.0",
+    "nbformat>=5.9.0",
+    "ipykernel>=6.29.0",
+]
+
+[project.scripts]
+jacksmirror = "jacksmirror.__main__:main"
+
+[tool.setuptools.packages.find]
+include = ["jacksmirror*"]
+
+[tool.setuptools.package-data]
+jacksmirror = ["../data/*.csv"]

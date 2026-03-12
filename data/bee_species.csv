@@ -1,0 +1,71 @@
+species,family,tribe,sociality,mating_system,effective_mates,haplodiploidy,colony_size,source
+Apis mellifera,Apidae,Apini,advanced_eusocial,polyandrous,11.6,True,60000,Hughes et al. 2008
+Apis cerana,Apidae,Apini,advanced_eusocial,polyandrous,14.1,True,30000,Hughes et al. 2008
+Apis dorsata,Apidae,Apini,advanced_eusocial,polyandrous,44.2,True,50000,Hughes et al. 2008
+Apis florea,Apidae,Apini,advanced_eusocial,polyandrous,7.9,True,8000,Hughes et al. 2008
+Melipona beecheii,Apidae,Meliponini,advanced_eusocial,monandrous,1.16,True,3000,Hughes et al. 2008
+Melipona quadrifasciata,Apidae,Meliponini,advanced_eusocial,monandrous,1.0,True,2000,Peters et al. 1999
+Trigona spinipes,Apidae,Meliponini,advanced_eusocial,monandrous,1.0,True,5000,Palmer et al. 2002
+Tetragonisca angustula,Apidae,Meliponini,advanced_eusocial,monandrous,1.0,True,3000,Paxton et al. 1999
+Scaptotrigona postica,Apidae,Meliponini,advanced_eusocial,monandrous,1.0,True,10000,Paxton et al. 1999
+Frieseomelitta varia,Apidae,Meliponini,advanced_eusocial,monandrous,1.0,True,2000,Paxton et al. 2003
+Nannotrigona testaceicornis,Apidae,Meliponini,advanced_eusocial,monandrous,1.0,True,3000,Paxton et al. 2003
+Plebeia droryana,Apidae,Meliponini,advanced_eusocial,monandrous,1.0,True,2500,Paxton et al. 2003
+Austroplebeia symei,Apidae,Meliponini,advanced_eusocial,monandrous,1.06,True,1500,Hughes et al. 2008
+Trigona hockingsi,Apidae,Meliponini,advanced_eusocial,monandrous,1.0,True,4000,Palmer et al. 2002
+Bombus terrestris,Apidae,Bombini,primitively_eusocial,monandrous,1.0,True,300,Estoup et al. 1995
+Bombus impatiens,Apidae,Bombini,primitively_eusocial,monandrous,1.13,True,250,Hughes et al. 2008
+Bombus hypnorum,Apidae,Bombini,primitively_eusocial,polyandrous,1.12,True,200,Hughes et al. 2008
+Bombus lapidarius,Apidae,Bombini,primitively_eusocial,monandrous,1.0,True,200,Estoup et al. 1995
+Bombus lucorum,Apidae,Bombini,primitively_eusocial,monandrous,1.0,True,250,Estoup et al. 1995
+Bombus pascuorum,Apidae,Bombini,primitively_eusocial,monandrous,1.0,True,150,Estoup et al. 1995
+Bombus pratorum,Apidae,Bombini,primitively_eusocial,monandrous,1.0,True,100,Estoup et al. 1995
+Bombus hortorum,Apidae,Bombini,primitively_eusocial,monandrous,1.0,True,100,Estoup et al. 1995
+Lasioglossum malachurum,Halictidae,Halictini,primitively_eusocial,monandrous,1.0,True,20,Paxton et al. 2002
+Lasioglossum marginatum,Halictidae,Halictini,primitively_eusocial,monandrous,1.0,True,15,Paxton et al. 2002
+Halictus rubicundus,Halictidae,Halictini,primitively_eusocial,monandrous,1.0,True,10,Yanega 1990
+Halictus ligatus,Halictidae,Halictini,primitively_eusocial,monandrous,2.9,True,12,Hughes et al. 2008
+Augochlorella aurata,Halictidae,Augochlorini,primitively_eusocial,monandrous,1.0,True,8,Mueller 1996
+Augochlorella striata,Halictidae,Augochlorini,primitively_eusocial,monandrous,1.0,True,8,Ordway 1966
+Exoneura robusta,Apidae,Allodapini,communal,monandrous,1.0,True,,Schwarz et al. 1998
+Exoneura bicolor,Apidae,Allodapini,communal,monandrous,1.0,True,,Schwarz et al. 1998
+Halictus quadricinctus,Halictidae,Halictini,communal,monandrous,1.0,True,,Danforth 2002
+Lasioglossum hemichalceum,Halictidae,Halictini,semisocial,monandrous,1.0,True,,Kukuk & Schwarz 1988
+Agapostemon virescens,Halictidae,Halictini,communal,monandrous,1.0,True,,Roberts 1969
+Euglossa imperialis,Apidae,Euglossini,communal,monandrous,1.0,True,,Zimmermann et al. 2009
+Eulaema meriana,Apidae,Euglossini,communal,monandrous,1.0,True,,Cameron & Ramirez 2001
+Eufriesea surinamensis,Apidae,Euglossini,solitary,monandrous,1.0,True,,Zimmermann et al. 2009
+Exaerete frontalis,Apidae,Euglossini,solitary,monandrous,1.0,True,,Zimmermann et al. 2009
+Euglossa cordata,Apidae,Euglossini,solitary,monandrous,1.0,True,,Augusto & Garofalo 2009
+Euglossa annectans,Apidae,Euglossini,solitary,monandrous,1.0,True,,Augusto & Garofalo 2009
+Xylocopa virginica,Apidae,Xylocopini,solitary,monandrous,1.0,True,,Peso & Richards 2010
+Xylocopa pubescens,Apidae,Xylocopini,solitary,monandrous,1.0,True,,Stark 1992
+Xylocopa violacea,Apidae,Xylocopini,solitary,monandrous,1.0,True,,Michener 2007
+Xylocopa varipuncta,Apidae,Xylocopini,solitary,monandrous,1.0,True,,Alcock 1991
+Ceratina calcarata,Apidae,Ceratinini,solitary,monandrous,1.0,True,,Rehan & Richards 2010
+Ceratina flavipes,Apidae,Ceratinini,solitary,monandrous,1.0,True,,Sakagami & Maeta 1977
+Megachile rotundata,Megachilidae,Megachilini,solitary,monandrous,1.0,True,,Pitts-Singer & Cane 2011
+Megachile centuncularis,Megachilidae,Megachilini,solitary,monandrous,1.0,True,,Michener 2007
+Osmia lignaria,Megachilidae,Osmiini,solitary,monandrous,1.0,True,,Bosch & Kemp 2002
+Osmia bicornis,Megachilidae,Osmiini,solitary,monandrous,1.0,True,,Seidelmann 2006
+Osmia cornifrons,Megachilidae,Osmiini,solitary,monandrous,1.0,True,,Maeta & Kitamura 1981
+Anthidium manicatum,Megachilidae,Anthidiini,solitary,monandrous,1.0,True,,Severinghaus et al. 1981
+Andrena fulva,Andrenidae,Andrenini,solitary,monandrous,1.0,True,,Michener 2007
+Andrena flavipes,Andrenidae,Andrenini,solitary,monandrous,1.0,True,,Michener 2007
+Andrena nitida,Andrenidae,Andrenini,solitary,monandrous,1.0,True,,Michener 2007
+Panurgus banksianus,Andrenidae,Panurgini,solitary,monandrous,1.0,True,,Michener 2007
+Calliopsis andreniformis,Andrenidae,Calliopsini,solitary,monandrous,1.0,True,,Michener 2007
+Colletes inaequalis,Colletidae,Colletini,solitary,monandrous,1.0,True,,Michener 2007
+Colletes succinctus,Colletidae,Colletini,solitary,monandrous,1.0,True,,Michener 2007
+Hylaeus communis,Colletidae,Hylaeini,solitary,monandrous,1.0,True,,Michener 2007
+Hylaeus signatus,Colletidae,Hylaeini,solitary,monandrous,1.0,True,,Michener 2007
+Nomia melanderi,Halictidae,Nomiini,solitary,monandrous,1.0,True,,Wcislo 1997
+Dieunomia triangulifera,Halictidae,Nomiini,solitary,monandrous,1.0,True,,Wcislo 1997
+Lasioglossum zephyrum,Halictidae,Halictini,solitary,monandrous,1.0,True,,Kukuk et al. 1998
+Lasioglossum figueresi,Halictidae,Halictini,solitary,monandrous,1.0,True,,Wcislo & Danforth 1997
+Dasypoda hirtipes,Melittidae,Dasypodaini,solitary,monandrous,1.0,True,,Michener 2007
+Melitta leporina,Melittidae,Melittini,solitary,monandrous,1.0,True,,Michener 2007
+Macropis nuda,Melittidae,Macropidini,solitary,monandrous,1.0,True,,Michener 2007
+Anthophora plumipes,Apidae,Anthophorini,solitary,monandrous,1.0,True,,Michener 2007
+Amegilla dawsoni,Apidae,Anthophorini,solitary,monandrous,1.0,True,,Alcock 1996
+Centris pallida,Apidae,Centridini,solitary,monandrous,1.0,True,,Alcock 1984
