@@ -13,6 +13,7 @@ The entire analysis -- from raw data to publication-quality output -- was built 
 | File/Folder | What it is |
 |------------|-----------|
 | `analysis_notebook.ipynb` | **Start here.** Jupyter notebook walking through the full analysis with biological context, code, figures, and interpretation. |
+| `DATA_SOURCES.md` | Full data provenance: how the datasets were identified, obtained, extracted, and curated. |
 | `data/bee_species.csv` | The 70-species dataset (species, family, sociality, mating system, effective mates, colony size) |
 | `data/hughes_2008_table_s1.csv` | The full 266-species Hughes et al. (2008) Table S1, extracted from the original PDF |
 | `jacksmirror/` | Python package with all statistical analysis code |
